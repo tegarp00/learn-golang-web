@@ -1,0 +1,6 @@
+eq artinya arg1 == arg2
+ne artinya arg1 != arg2
+lt artinya arg1 < arg2
+le artinya arg1 <= arg2
+gt artinya arg1 > arg2
+ge artinya arg1 >= arg2
